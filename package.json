@@ -1,0 +1,22 @@
+{
+  "name": "siuu-typescript-atm-machine",
+  "version": "1.4.6",
+  "description": "This is a TypeScript AtM Machine Project",
+  "main": "app.js",
+  "type": "module",
+  "bin": {
+    "siuu-atm-machine": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "M Salman",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
